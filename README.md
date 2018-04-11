@@ -3,7 +3,9 @@ Wireless IoT 7 Channel Dry/Wet Contact Closure Transmitter
 
 Industrial IoT Long Range Wireless 7 Channel Dry/Wet Contact Closure Transmitter With 2 Mile Range
 
-Long range wireless IoT Thermocouple sensor can be found over here https://store.ncd.io/product/long-range-iot-wireless-multi-channel-dry-contact-closure-transmitter/
+Long range wireless IoT 7 Channel Dry/Wet Contact Closure Transmitter can be found over here https://store.ncd.io/product/long-range-iot-wireless-multi-channel-dry-contact-closure-transmitter/
+
+https://store.ncd.io/product/long-range-iot-wireless-multi-channel-wet-contact-closure-transmitter/
 
 this Labview software will work with ncd.io wireless 7 Channel Dry/Wet Contact Closure Transmitter only
 
